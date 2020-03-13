@@ -1,6 +1,6 @@
-# Save The Animals v1.0.0
+# Key Conservation v1.1.0
 
-Backend Project for Lambda School's Build Week, deployed Link is https://save-the-animals-app.herokuapp.com/
+Extension of a Backend Project for Lambda School's Build Week, deployed Link is https://key-conservation-app.herokuapp.com/
 
 - [Users](#users)
   - [Register New User](#register-new-user)
